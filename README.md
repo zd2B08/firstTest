@@ -2,14 +2,20 @@
 # H1見出し
 ## H2見出し
 ###### H6見出し
+
 改行
+
 1行目(スペースを2つ入れる)
 2行目
+
 リスト
+
 * リスト1
     * リスト1-2
 * リスト2
+
 リスト(Definition)
+
 <dl>
     <dt>オレオ</dt>
     <dd>クッキー&クリーム</dd>
@@ -17,13 +23,13 @@
     <dd>プレーンクラッカー</dd>
 </dl>
 
--[ ] aaaa
--[ ] bbbb
--[ ] cccc
+
 
 リンク
 <http://qiita.com>
+
 画像
+
 ![ダミー画像](http://placehold.it/100)
 ![ダミー画像](http://placehold.it/100 "ダミー画像")
 テーブル記法
@@ -35,4 +41,3 @@
 | be         |          be |      be      |
 | left       |       right |    center    |
 | aligned    |     aligned |   aligned    |
- 結果
